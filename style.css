@@ -1,0 +1,43 @@
+.reto-9{
+    margin: 0 auto;
+    background-color: #ccc;
+    padding: 5rem;
+    width: 800px;
+    margin-bottom: 50px;
+}
+
+.reto-text{
+    font-size: 30px;
+    color: #000;
+    font-weight: 600;
+
+}
+.input-content{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.input{
+    display: inline-block;
+    padding: 2rem 1rem;
+    border: none;
+    width: 50%;
+    border-radius: 5px;
+    outline: none;
+    font-size: 25px;
+}
+
+.btn{
+    display: inline-block;
+    padding: 22px 50px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+    border-radius: 10px;
+    background-color: #000;
+}
+.message{
+    font-size: 30px;
+
+}
